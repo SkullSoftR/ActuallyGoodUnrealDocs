@@ -1,7 +1,1 @@
-# My Project Docs
-
-Welcome to my documentation.
-
-## Installation
-
-Run:
+Welcome to my documentation for Unreal Engine 5.
