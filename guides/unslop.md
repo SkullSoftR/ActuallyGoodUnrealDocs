@@ -81,7 +81,7 @@ These features are pretty new and also very overkill for a small project. If you
 ```
 r.Upscale.Quality=0
 r.ScreenPercentage=100
-r.SecondaryScreenPercntage.GameViewport=100
+r.SecondaryScreenPercentage.GameViewport=100
 ```
 
 This feels really silly but in my experience has genuinely made a lot of difference. You can additionally set the percentages to **200**, which will 'supersample' the rendering. This means the game is being drawn at a really crisp 4K and then downscaled if the player's monitor isn't big enough, reducing jagged edges.
