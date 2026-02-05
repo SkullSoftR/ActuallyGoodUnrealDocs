@@ -26,7 +26,7 @@ r.Lumen.Reflections=0
 r.Lumen.ScreenProbeGather=0
 ```
 
-Lumen is really nice in theory, but it uses a lot of temporal techniques and unfortunately in my opinion the technology just isn't mature enough to reach expectations.
+Lumen is really nice in theory, but it uses a lot of temporal techniques and unfortunately in my opinion the technology just isn't mature enough to reach expectations. You can keep it on if you like, it's up to you.
 
 ## 3. Nanite
 
@@ -75,6 +75,7 @@ r.TextureStreaming=False
 ```
 
 These features are pretty new and also very overkill for a small project. If you have 10,000 textures and lots of lighting in your game this might be worth considering but for most projects, spending computing time on this will not be worth it.
+**It's worth noting that you can't disable Virtual Shadow Maps if you still want to use Lumen.**
 
 ## 8. Ensure native resolution
 
