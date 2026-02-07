@@ -5,7 +5,7 @@
 I've made a completely blank Blueprint project based on this guide, so if you're not making these changes for an existing project it could be worth using it to save headaches.
 
 Download:
-https://github.com/SkullSoftR/ActuallyGoodUnrealDocs/releases/download/Templates/GoodBlankBPProject.zip
+[https://github.com/SkullSoftR/ActuallyGoodUnrealDocs/releases/download/Templates/GoodBlankBPProject.zip](https://github.com/SkullSoftR/ActuallyGoodUnrealDocs/releases/download/Templates/GoodBlankBPProject.zip)
 
 ## Why edit Unreal's default settings?
 Unreal Engine 5, while powerful, unfortunately makes new developers feel completely out of control of how their game looks when they start a new project.
