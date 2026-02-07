@@ -1,5 +1,13 @@
 # Un-sloppifying Unreal's visuals
 
+## !! NOTE !!
+
+I've made a completely blank Blueprint project based on this guide, so if you're not making these changes for an existing project it could be worth using it to save headaches.
+
+Download:
+https://github.com/SkullSoftR/ActuallyGoodUnrealDocs/releases/download/Templates/GoodBlankBPProject.zip
+
+## Why edit Unreal's default settings?
 Unreal Engine 5, while powerful, unfortunately makes new developers feel completely out of control of how their game looks when they start a new project.
 So many simple games are using insanely advanced features like real-time global illumination and ray tracing when they have no reason to whatsoever. I don't like how Epic has enabled unneccessary things like AI upscaling and temporal anti-aliasing by default, and it's very poorly explained online how you actually change it. So here's how to do it!
 
