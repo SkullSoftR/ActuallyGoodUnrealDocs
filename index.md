@@ -3,9 +3,9 @@ Welcome to my documentation for Unreal Engine 5. Epic Games have proven themselv
 <img width="499" height="247" alt="image" src="https://github.com/user-attachments/assets/fd11d722-14c3-4456-b9b7-f84aadf6d89f" />
 
 ## Guides
-[Un-sloppifying Unreal's visuals](/guides/unslop.md)
+[Un-sloppifying Unreal's visuals](/guides/unslop)
 
 ## API Reference
-[Blueprint API Reference](/api/bpapilookup.md)
+[Blueprint API Reference](/api/bpapilookup)
 
-[C++ API Reference](/api/cppapilookup.md)
+[C++ API Reference](/api/cppapilookup)
